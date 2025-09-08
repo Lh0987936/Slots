@@ -23,5 +23,5 @@ while ($winnings < 500 && $spin_total <= 10) {
     $spin_total++;
 }
 echo("That's the Last Spin!\n");
-echo("\nTotal winnings : " . $winnings . "!\n");
+echo("\nTotal winnings: " . $winnings . "!\n");
 echo("Thanks for playing! Please, join us again soon!\n");
